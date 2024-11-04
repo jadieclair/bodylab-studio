@@ -307,7 +307,7 @@ abbr {
 
 .contact-info-box {
   position: absolute;
-  bottom: 40px;
+  bottom: 20px;
   left: 50%;
   transform: translateX(-50%);
   background-color: rgba(52, 58, 64, 0.9);
